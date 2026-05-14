@@ -1,4 +1,4 @@
-# 1 watt solar repeater build Guide
+# 1 watt solar repeater build guide
 Parts for the 1 watt RAK MeshCore solar powered repeater.
 
 
@@ -51,20 +51,25 @@ Options to consider:
 
 Note that the legal maximum power allowed in the US is a 1 watt transmitter attached to a 5.8dBi antenna.
 The 10 dBi antenna can help to increase the receive signal strength for listening to far away repeaters, however you will have to turn the TX power down to 18 to comply with legal restrictions.
+
 10 dBi Rokland Backcountry Rural N-Male Antenna:
 https://store.rokland.com/products/10-dbi-backcountry-n-male-omni-outdoor-helium-915-mhz-antenna-48-for-rak-miner-2-nebra-indoor-bobcat-hotspots?variant=39392616841299
 
 
 12 inch coax cable if you are mounting the antenna very close above the enclosure - used in place of the 3 foot cable above:
+
 https://www.amazon.com/dp/B0B3XJ4ZKR?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 
 
 If you want to run from PoE (Power over Ethernet), you can eliminate the solar panel and replace with an ethernet passthrough and PoE splitter:
+
 https://www.amazon.com/dp/B07PH4GL2F?th=1
+
 https://www.amazon.com/dp/B09GM8FB3X?th=1
 
 
 For a more compact installation, you can eliminate the larger antenna and external coax cable above and replace with this small antenna that mounts directly onto the N connector on the enclosure itself.  Note that although this antenna says 5 dB, people testing it shows that it is closer to 2-3 dB:
+
 ALFA Network AOA-915-5ACM Antenna:
 https://www.amazon.com/dp/B08H8J6ZV6
 
