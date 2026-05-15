@@ -24,7 +24,9 @@ Radio Settings:  USA/Canada
 
 Do NOT enable Repeat Mode.  
 
-Select "Experimental Settings".  Set "Default Path Hash Size" to 3-byte.
+Select "Experimental Settings".  
+
+Set "Default Path Hash Size" to 3-byte.
 
 Click the check mark on the Experimental Settings page to save the settings.
 
