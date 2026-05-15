@@ -1,4 +1,4 @@
-#MaineMesh Meshcore Observers
+# MaineMesh Meshcore Observers
 
 Observers play a critical role in helping to monitor the overall health and status of the mesh network.
 
@@ -7,7 +7,7 @@ We participate in two mesh monitors, [Meshmapper](https://bgr.meshmapper.net/), 
 Within Meshmapper we've established a state wide region BGR (Bangor) to allow monitoring of all traffic within the state.  If you choose to setup a Meshcore observer, please set the region to BGR to help us out!
 
 
-##Configuration
+## Configuration
 
 To setup an observer, follow the directions on the [Meshmapper Observer Setup](https://wiki.meshmapper.net/mqtt-main/) site using one of the observer methods described there.
 
