@@ -10,14 +10,14 @@ This site complements the [original Meshtastic Maine Mesh site](https://github.c
 Meshcore is Open Source software released under the MIT License.  More information about the Meshcore software can be found on their website at https://meshcore.io
 
 
+## Live Map
+See MaineMesh-Meshcore in action on the [Meshcore Live Map!](https://map.newenglandme.sh/map?lat=45.34869&lon=-69.58150&zoom=8&layer=dark&history=off&heat=off&coverage=off&weather=off&weather_radar=on&weather_wind=on&labels=off&nodes=on&legend=on&menu=on&units=mi&history_filter=0&route_bytes=all)
+
+
 ## Contact
 [Facebook](https://www.facebook.com/groups/mainemesh)
 
 [Discord](https://discord.gg/2Uhz4AzB8E) - see the "meshcore" channel
-
-
-## Live Map
-See MaineMesh-Meshcore in action on the [Meshcore Live Map!](https://map.newenglandme.sh/map?lat=45.34869&lon=-69.58150&zoom=8&layer=dark&history=off&heat=off&coverage=off&weather=off&weather_radar=on&weather_wind=on&labels=off&nodes=on&legend=on&menu=on&units=mi&history_filter=0&route_bytes=all)
 
 
 ## Setting up a Companion (client) node
