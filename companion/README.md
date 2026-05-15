@@ -4,8 +4,7 @@ Companion nodes alow you to connect to the mesh network to send and receive mess
 
 
 ## Configuration
-Details of flashing the Meshcore firmware to your device can be found on the Mes
-hcore site at https://meshcore.io
+Details of flashing the Meshcore firmware to your device can be found on the Meshcore site at https://meshcore.io
 
 There are some videos at the bottom of the page that cover the basics, along with more information in the Docs section.
 
