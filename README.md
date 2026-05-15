@@ -3,7 +3,7 @@ Welcome to the MaineMesh Meshcore project!
 
 We are building a resilient, off-grid communications network using low-cost LoRa radio devices running the Meshcore software.
 
-This network provides text messaging, group chats, and sensor data across the state without the need for internet or cellular access.
+This network provides text messaging, group chats, and sensor data using radio communications only, no Internet or cellular!
 
 This site complements the [original Meshtastic Maine Mesh site](https://github.com/JFRHorton/MaineMesh) by providing information about the Meshcore part of the MaineMesh project.
 
