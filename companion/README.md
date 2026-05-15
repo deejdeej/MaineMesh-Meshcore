@@ -9,6 +9,7 @@ Details of flashing the Meshcore firmware to your device can be found on the Mes
 There are some videos at the bottom of the page that cover the basics, along with more information in the Docs section.
 
 Note that if you are converting from Meshtastic or some other firmware, you need to check the "Erase Device" option in the flasher first, then click the "Flash" button.
+
 ![EraseDevice](EraseDevice.png)
 
 Once you have the firmware installed, run the Meshcore app on your phone, scan for Bluetooth connections and connect to the device.  If the device has a screen, the Bluetooth PIN will be displayed on it, otherwise the code is 123456 for devices without a screen.
