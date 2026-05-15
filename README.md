@@ -29,5 +29,6 @@ If you would like to help expand the MaineMesh Meshcore network, information abo
 
 
 ## Help monitor the network status
-Observer nodes send the mesh traffic to sites like Meshmapper and the Live New England map.  Please consider [setting up an observer node](observer/README.md) in your area!
+Observer nodes play a critical role in helping to monitor the overall health and status of the mesh network.
+Please consider [setting up an observer node](observer/README.md) in your area!
 
