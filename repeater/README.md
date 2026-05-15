@@ -1,5 +1,16 @@
 # MaineMesh Meshcore Repeaters
 
+## Naming Convention
+We are encouraging the naming convention of Location-Role-Number.
+
+Examples:
+
+Brunwsick-RPT-1
+
+Brunswick-RPT-2
+
+Bangor-RPT-1
+
 
 ## Hardware
 
