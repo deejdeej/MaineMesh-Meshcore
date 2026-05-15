@@ -20,4 +20,4 @@ Name: MaineNet
 Key: 6eb648d2c99f3a093b850610ec5bd2c3
 ```
 
-[MaineNet Meshcore Channel](MaineNet-Meshcore-Channel.png)
+![MaineNet Meshcore Channel](MaineNet-Meshcore-Channel.png)
