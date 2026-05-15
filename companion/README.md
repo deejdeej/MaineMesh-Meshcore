@@ -34,7 +34,7 @@ Click the left arrow to go back to the main settings page.
 
 Click the check mark on the main settings page to save the settings.
 
-Scroll to the bottom and select "Reboot".
+Wait 10 seconds to ensure the config has saved, then scroll to the bottom and select "Reboot".
 
 ![Companion-Config-1](Companion-Config-1.png)
 ![Companion-Config-2](Companion-Config-2.png)
