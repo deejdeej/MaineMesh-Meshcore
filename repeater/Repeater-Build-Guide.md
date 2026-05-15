@@ -1,5 +1,7 @@
 # This is a DRAFT document subject to change as we work out the details.
 
+# Note that this has not yet been vetted, so please don't buy anything based on this page!
+
 # 1 watt solar repeater build guide
 Parts for the 1 watt RAK MeshCore solar powered repeater.
 
