@@ -5,7 +5,7 @@ We are building a resilient, off-grid communications network using low-cost LoRa
 
 This network provides text messaging, group chats, and sensor data across the state without the need for internet or cellular access.
 
-This site complements the original Meshtastic Maine Mesh site located at https://github.com/JFRHorton/MaineMesh by providing information about the Meshcore part of the MaineMesh project.
+This site complements the [original Meshtastic Maine Mesh site](https://github.com/JFRHorton/MaineMesh) by providing information about the Meshcore part of the MaineMesh project.
 
 More information about the Meshcore software can be found on their website at https://meshcore.io
 
