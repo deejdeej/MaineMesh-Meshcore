@@ -7,6 +7,7 @@ Parts for the 1 watt RAK MeshCore solar powered repeater.
 
 
 RAKWireless parts:
+
 RAK 3401 1 watt radio 915 Mhz:
 https://store.rakwireless.com/products/meshtastic-1w-lora-booster-kit-rak3401?variant=45678368882886
 
@@ -15,6 +16,7 @@ https://store.rakwireless.com/products/wisblock-gnss-location-module-rak12500
 
 
 Amazon parts:
+
 Enclosure, Grey, 5.9" x 5.9" x 3.5":
 https://www.amazon.com/gp/product/B0C2HJGRFS/?th=1
 
@@ -44,6 +46,7 @@ https://www.amazon.com/1000pcs-Zipties-Locking-Plastic-Management/dp/B0FSJQGKSG/
 
 
 Rokland parts:
+
 MakerFocus Flat 3.7V 8000 mAh Battery with JST Type PH 2.0 Plug:
 https://store.rokland.com/products/makerfocus-flat-3-7v-3000mah-rechargeable-lithium-polymer-11-1wh-battery-with-jst-type-ph-2-0-plug?variant=43445176369235
 
