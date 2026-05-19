@@ -6,7 +6,7 @@
 Parts for the 1 watt RAK MeshCore solar powered repeater.
 
 
-RAKWireless parts:
+**RAKWireless parts:**
 
 Note when ordering from RAK Wireless, choose the DDP (Delivery Duty Paid) shipping option so you don't get a separate bill for tariffs + tariff collection fees.
 
@@ -17,7 +17,7 @@ RAK 12500 GPS:
 https://store.rakwireless.com/products/wisblock-gnss-location-module-rak12500
 
 
-Amazon parts:
+**Amazon parts:**
 
 Enclosure, Grey, 5.9" x 5.9" x 3.5":
 https://www.amazon.com/gp/product/B0C2HJGRFS/?th=1
@@ -47,7 +47,7 @@ Small 4 inch zip ties for securing the RAK radio to the internal enclosure perfb
 https://www.amazon.com/1000pcs-Zipties-Locking-Plastic-Management/dp/B0FSJQGKSG/?th=1
 
 
-Rokland parts:
+**Rokland parts:**
 
 MakerFocus Flat 3.7V 8000 mAh Battery with JST Type PH 2.0 Plug:
 https://store.rokland.com/products/makerfocus-flat-3-7v-3000mah-rechargeable-lithium-polymer-11-1wh-battery-with-jst-type-ph-2-0-plug?variant=43445176369235
@@ -56,7 +56,7 @@ https://store.rokland.com/products/makerfocus-flat-3-7v-3000mah-rechargeable-lit
 https://store.rokland.com/products/rak-wireless-5-8-dbi-outdoor-black-fiberglass-helium-hotspot-antenna?variant=41928821473363
 
 
-Options to consider:
+**Options to consider:**
 
 Note that the legal maximum power allowed in the US is a 1 watt transmitter attached to a 5.8dBi antenna.
 The 10 dBi antenna can help to increase the receive signal strength for listening to far away repeaters, however you will have to turn the TX power down to 18 to comply with legal restrictions.
