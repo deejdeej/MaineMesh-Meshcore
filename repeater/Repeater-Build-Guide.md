@@ -7,6 +7,7 @@ Parts for the 1 watt RAK MeshCore solar powered repeater.
 
 
 RAKWireless parts:
+Note when ordering from RAK Wireless, choose the DDP (Delivery Duty Paid) shipping option so you don't get a separate bill for tariffs + tariff collection fees.
 
 RAK 3401 1 watt radio 915 Mhz:
 https://store.rakwireless.com/products/meshtastic-1w-lora-booster-kit-rak3401?variant=45678368882886
