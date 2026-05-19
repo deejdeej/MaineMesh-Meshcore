@@ -2,7 +2,7 @@
 
 Observers play a critical role in helping to monitor the overall health and status of the mesh network.
 
-We participate in two mesh monitors, [Meshmapper](https://bgr.meshmapper.net/), and the [New England Live Map](https://map.newenglandme.sh/map?lat=45.34869&lon=-69.58150&zoom=8&layer=dark&history=off&heat=off&coverage=off&weather=off&weather_radar=on&weather_wind=on&labels=off&nodes=on&legend=on&menu=on&units=mi&history_filter=0&route_bytes=all).
+We participate in three mesh monitors, [LetsMesh](https://letsmesh.net), [Meshmapper](https://bgr.meshmapper.net/), and the [New England Live Map](https://map.newenglandme.sh/map?lat=45.34869&lon=-69.58150&zoom=8&layer=dark&history=off&heat=off&coverage=off&weather=off&weather_radar=on&weather_wind=on&labels=off&nodes=on&legend=on&menu=on&units=mi&history_filter=0&route_bytes=all).
 
 Within Meshmapper we've established a state wide region BGR (Bangor) to allow monitoring of all traffic within the state.  If you choose to setup a Meshcore observer, please set the region to BGR to help us out!
 
