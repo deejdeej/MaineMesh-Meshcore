@@ -93,7 +93,7 @@ Gather the parts that you need to put the node together.
 
 ## Make the solar cable
 
-I prefer solder and heat shrink, but you could use a crimp connector here if you wish.
+I prefer solder and heat shrink, but you could use crimp connections here if you wish, as long as they are insulated.
 
 Take the solar power cable that comes with the RAK and cut it in half.
 
