@@ -85,6 +85,11 @@ https://www.amazon.com/dp/B08H8J6ZV6
 
 # Build it
 
+TO DO:  Figure out options to seal up the solar panel USB cable where it passes through the cable gland.  RTV?  Rubber grommet?
+
+TO DO:  Add more pictures to fill in details below.
+
+
 ## Gather the parts
 
 Gather the parts that you need to put the node together.
@@ -99,14 +104,14 @@ Take the solar power cable that comes with the RAK and cut it in half.
 
 Trim the USB-C pigtail down to a few inches.
 
-Connect the red wire from the solar cable to the red wire on the USB-C pigtail, adn the black wire from the solar cable to the black wire on the USB-C pigtail.
+Connect the red wire from the solar cable to the red wire on the USB-C pigtail, and the black wire from the solar cable to the black wire on the USB-C pigtail.
 
 ![Solar Cable 1](./pics/solar-cable-1.jpg)
 ![Solar Cable 2](./pics/solar-cable-2.jpg)
 ![Solar Cable 3](./pics/solar-cable-3.jpg)
 
 
-## Drill the power and antenna holes
+## Drill the solar panel and antenna holes
 
 A step drill makes drilling the holes easy and clean.  I like to use a small round file to clean up the holes after drilling.
 
@@ -136,11 +141,11 @@ DO NOT CONNECT THE BATTERY TO THE RAK RADIO.  You will damage the radio if you p
 
 ## Connections
 
-Plug the solar cable into the RAK radio.  Make sure you have the oconnector and the red wire oriented correctly!
+Plug the solar cable pigtail into the RAK radio.  Make sure you have the connector and the red wire oriented correctly!
 
 Bundle the solar cable up and use zip ties to secure it to the left side of the perfboard.  Leave the USB-C connector pointing towards the bottom about halfway up the perfboard.
 
-The little IPEX connectors are somewhat fragile, so work carefully when connecting them.
+The little IPEX connectors are somewhat fragile, so work carefully when connecting the following:
 
 Connect the Bluetooth antenna to the RAK radio.
 
@@ -156,9 +161,9 @@ Insert the antenna bulkhead mount through the top hole in the enclosure and secu
 
 Insert the cable gland in the bottom hole.  You want it fairly tight, but be careful not to overtighten and strip the plastic threads.
 
-Peel the backing from the sticky tape on the GPS antenna, and stick it to the top of the enclosure.
+Peel the backing from the sticky tape on the GPS antenna, and stick it to the underside of the top of the inside of the enclosure.
 
-Peel the backing from the sticky tape on the Bluetooth antenna, and stick it on the bottom of the enclosure.
+Peel the backing from the sticky tape on the Bluetooth antenna, and stick it on the bottom of the inside of the enclosure.
 
 Leave the battery disconnected for now.  You will damage the radio if you power it on without an antenna attached.
 
@@ -170,9 +175,11 @@ If you have one of the small ALFA 915 antennas, you can screw it onto the antenn
 
 If you have the larger antennas, laying it out alongside the enclosure on a wooden or plastic table might make it easier due to the size.  There is a chance that a metal table might severely affect the SWR of the antenna if the antenna is paying on it, so you might want to avoid using a metal table.
 
-Connect the antenna, then connect a USB-C cable from the USB-C port on the RAK radio to your computer.  Flash the firmware and configure the node following the recommendations on the [Repeater page](README.md).
+Connect the antenna and coax and double check it is connected properly.
 
-Once done, disconnect the USB-C cable, and ensure there is no power going to the RAK radio (USB, Battery, and solar are NOT connected).
+Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  Flash the firmware and configure the node following the recommendations on the [Repeater page](README.md).
+
+Once done, disconnect the USB-C cable, and ensure there is no power going to the RAK radio (Making sure the USB, Battery, and solar are NOT connected).
 
 ##  Mount it
 
@@ -192,6 +199,3 @@ Inside the enclosure, connect the battery to the RAK radio.
 
 Slide the solar panel USB cable in through the cable gland on the bottom of the enclosure, and connect it to the USB-C pigtail that is mounted on the left side of the perfboard.
 
-TO DO:  Figure out options to seal up the solar panel USB cable where it passes through the cable gland.  RTV?  Rubber grommet?
-
-TO DO:  Add more pictures to fill in details above.
