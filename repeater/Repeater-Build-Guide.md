@@ -182,7 +182,9 @@ If you have the larger antennas, laying it out alongside the enclosure on a wood
 
 Connect the antenna and coax and double check it is connected properly.
 
-Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  Flash the firmware and configure the node following the recommendations on the [Repeater page](README.md).
+Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  A 90 degree USB-C adapter can make it easier to connect the USB cable to the RAK.
+
+Flash the firmware and configure the node following the recommendations on the [Repeater page](README.md).
 
 Once done, disconnect the USB-C cable, and ensure there is no power going to the RAK radio (Making sure the USB, Battery, and solar are NOT connected).
 
