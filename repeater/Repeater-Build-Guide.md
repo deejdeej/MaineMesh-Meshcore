@@ -190,7 +190,7 @@ Once done, disconnect the USB-C cable, and ensure there is no power going to the
 
 If you are going to mount the repeater on a pole, attach the pole mounting kit to the back of the enclosure.
 
-Attach the Universal Wall Mounting bracket to the solar panel using three 1 inch long 1/4 inch bolts, three nuts, and six washers.  Place washers both under the head of the bolts and under the nut.  If the holes in the solar panel bracket are a little tight, you can relieve them a little bit with a small round file, or drill them out with a 1/4 drill bit.
+Remove the blue plastic protective film from the Universal Mounting bracket, and mount it to the solar panel using three 1 inch long 1/4 inch bolts, three nuts, and six washers.  Place washers both under the head of the bolts and under the nut.  If the holes in the solar panel bracket are a little tight, you can relieve them a little bit with a small round file, or drill them out with a 1/4 drill bit.
 
 ![Solar Panel 1](./pics/solar-panel-1.jpg)
 ![Solar Panel 2](./pics/solar-panel-2.jpg)
