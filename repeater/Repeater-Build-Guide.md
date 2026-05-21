@@ -56,6 +56,11 @@ https://store.rokland.com/products/makerfocus-flat-3-7v-3000mah-rechargeable-lit
 https://store.rokland.com/products/rak-wireless-5-8-dbi-outdoor-black-fiberglass-helium-hotspot-antenna?variant=41928821473363
 
 
+**Miscellaneous parts:**
+
+Three 1 inch long 1/4 inch bolts, three nuts, and six washers.
+
+
 **Options to consider:**
 
 Note that the legal maximum power allowed in the US is a 1 watt transmitter attached to a 5.8dBi antenna.
@@ -185,7 +190,7 @@ Once done, disconnect the USB-C cable, and ensure there is no power going to the
 
 If you are going to mount the repeater on a pole, attach the pole mounting kit to the back of the enclosure.
 
-Attach the Universal Wall Mounting bracket to the solar panel using 1 inch long 1/4 inch bolts, nuts, and washers.  If the holes in the solar panel bracket are a little tight, you can relieve them a little bit with a small round file, or drill them out with a 1/4 drill bit.
+Attach the Universal Wall Mounting bracket to the solar panel using three 1 inch long 1/4 inch bolts, three nuts, and six washers.  Place washers both under the head of the bolts and under the nut.  If the holes in the solar panel bracket are a little tight, you can relieve them a little bit with a small round file, or drill them out with a 1/4 drill bit.
 
 ![Solar Panel 1](./pics/solar-panel-1.jpg)
 ![Solar Panel 2](./pics/solar-panel-2.jpg)
