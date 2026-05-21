@@ -136,9 +136,9 @@ Test fit the cable gland and the antenna bulkhead mount in the holes, then remov
 
 ## Populate the perfboard
 
-Connect a zip tie back on itself to make a spacer.  Make four of these.
+Connect a zip tie back on itself to make a spacer.  Make three of these.
 
-Put the spacers between the RAK radio and the perboard under each mounting hole, and use small zip ties to attach the RAK radio to the top half of the perfboard.
+Put the spacers between the RAK radio and the perfboard under each mounting hole, and use three zip ties to attach the RAK radio to the top half of the perfboard, using the three mounting holes as shown in the picture.
 
 Use zip ties to attach the battery to the bottom half of the perfboard.
 
@@ -156,7 +156,7 @@ Connect the Bluetooth antenna to the RAK radio.
 
 Connect the GPS antenna to the RAK radio.
 
-Connect the antenna coax cable to the RAK radio.
+Connect the antenna coax cable to the RAK radio.  Use a zip tie to secure the coax cable to the nearby hole in the RAK 13302 board.
 
 ## Mount everything in the enclosure
 
