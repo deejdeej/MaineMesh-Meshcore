@@ -142,6 +142,10 @@ Connect a zip tie back on itself to make a spacer.  Make three of these.
 
 Put the spacers between the RAK radio and the perfboard under each mounting hole, and use three zip ties to attach the RAK radio to the top half of the perfboard, using the three mounting holes as shown in the picture.
 
+Be careful of the small LEDs mounted on the end of the board (to the right in the pictures)!  Place the zip ties going towards the top and bottom respectively instead of going over the top of the LEDs.
+
+Tighten the zip ties enough to hold the board in place, but don't overtighten enough that you bend the board and potentially cause damage.  
+
 Use zip ties to attach the battery to the bottom half of the perfboard.
 
 DO NOT CONNECT THE BATTERY TO THE RAK RADIO.  You will damage the radio if you power it on without an antenna attached.
@@ -176,17 +180,48 @@ Leave the battery disconnected for now.  You will damage the radio if you power 
 
 ## Antenna
 
-At this point you need an antenna connected before you can do much else.  
-
+At this point you need an antenna connected before you can configure the radio.  
 If you have one of the small ALFA 915 antennas, you can screw it onto the antenna connector on the top of the enclosure.
 
 If you have the larger antennas, laying it out alongside the enclosure on a wooden or plastic table might make it easier due to the size.  There is a chance that a metal table might severely affect the SWR of the antenna if the antenna is paying on it, so you might want to avoid using a metal table.
 
 Connect the antenna and coax and double check it is connected properly.
 
+## Configuration
+
+With the antenna properly connected, we can now install the firmware.
+
 Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  A 90 degree USB-C adapter can make it easier to connect the USB cable to the RAK.
 
-Flash the firmware and configure the node following the recommendations on the [Repeater page](README.md).
+Note the battery should be left disconnected at this time.
+
+For the RAK Wireless 1 watt radio, you will need to erase the flash, install the OTAFIX bootloader, erase the flash again, then install the Meshcore firmware.
+
+To do this:
+
+Click the physical reset button on the RAK radio twice rapidly to put it in DFU mode.  A pop up window should appear showing the files on the RAK radio.
+
+Once in DFU mode, then click "Erase Flash".  
+
+When the pop up window says "You can flash Meshcore now", you then need to DISCONNECT the USB cable from the radio and ensure it powers down.
+
+You should now install the OTAFIX bootloader.  Click on the link "OTAFIX bootloader" near the top of the page and download the bootloader firmware.  It will be called something like "wiscore_rak4631_board_bootloader-0.9.2-OTAFIX2.2.uf2".
+
+Wait 10 seconds, then reconnect the USB cable to the radio to power it back on.
+
+Put the radio into DFU mode again (same way as above).  A pop up window should come up showing the files on the radio.  Copy and paste the OTAFIX bootloader file into this window.
+
+The radio will reboot.
+
+Wait 20 seconds, then DISCONNECT the USB cable from the radio and ensure it powers down.
+
+Wait 10 seconds, then reconnect the USB cable to the radio to power it back on.
+
+Put the radio into DFU mode again (same way as above).  A pop up window should come up showing the files on the radio.  
+
+Click the "Flash!" button to install the Meshcore firmware on the radio.
+
+When the firmware has installed, click on the "Configure via USB" button and configure the radio using the recommendations on the [Repeater page](README.md).
 
 Once done, disconnect the USB-C cable, and ensure there is no power going to the RAK radio (Making sure the USB, Battery, and solar are NOT connected).
 
