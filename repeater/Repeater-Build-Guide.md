@@ -218,8 +218,6 @@ If you have the larger antennas, laying it out alongside the enclosure on a wood
 
 Connect the external antenna and external coax cable and double check it is connected properly.
 
-![Antenna 1](./pics/antenna-1.jpg)
-
 
 ## Configuration
 
