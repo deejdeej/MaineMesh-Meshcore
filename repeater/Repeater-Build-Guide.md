@@ -136,7 +136,9 @@ Test fit the cable gland and the antenna bulkhead mount in the holes, then remov
 
 ## Populate the perfboard
 
-Connect a zip tie back on itself to make a spacer.  Make three of these.
+Note: When using zip ties, trim the excess using [flush cutters](https://www.amazon.com/dp/B00FZPDG1K?th=1) so as to not leave a sharp edge.  Scissors or normal wire cutters can leave a very sharp edge on the zip tie that you will eventually cut yourself on.  
+
+Connect a zip tie back on itself to make a spacer.  Make three of these.  
 
 Put the spacers between the RAK radio and the perfboard under each mounting hole, and use three zip ties to attach the RAK radio to the top half of the perfboard, using the three mounting holes as shown in the picture.
 
