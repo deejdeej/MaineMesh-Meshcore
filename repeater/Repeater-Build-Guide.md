@@ -165,7 +165,7 @@ Secure the battery at the top, middle and bottom.  Tighten enough so the battery
 ![Perfboard 8](./pics/perf-8.jpg)
 ![Perfboard 9](./pics/perf-9.jpg)
 
-DO NOT CONNECT THE BATTERY TO THE RAK RADIO.  You will damage the radio if you power it on without an antenna attached.
+**DO NOT CONNECT THE BATTERY TO THE RAK RADIO.  You will damage the radio if you power it on without an antenna attached.**
 
 ## Connections
 
@@ -200,7 +200,7 @@ Peel the backing from the sticky tape on the GPS antenna, and stick it to the un
 
 Peel the backing from the sticky tape on the Bluetooth antenna, and stick it on the bottom of the inside of the enclosure.
 
-Leave the battery disconnected for now.  You will damage the radio if you power it on without an antenna attached.
+**Leave the battery disconnected for now.  You will damage the radio if you power it on without an antenna attached.**
 
 ![Mount 1](./pics/mount-1.jpg)
 ![Mount 2](./pics/mount-2.jpg)
