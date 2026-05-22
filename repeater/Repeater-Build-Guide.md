@@ -149,7 +149,7 @@ Put the spacers between the RAK radio and the perfboard under each mounting hole
 
 Be careful of the small LEDs mounted on the end of the board (to the right in the pictures)!  Place the zip ties going towards the top and bottom respectively instead of going over the top of the LEDs.
 
-Tighten the zip ties enough to hold the board in place, but don't overtighten enough that you bend the board and potentially cause damage.  
+Tighten the zip ties enough to hold the board firmly in place, but don't get too agressive here.  
 
 ![Perfboard 2](./pics/perf-2.jpg)
 ![Perfboard 3](./pics/perf-3.jpg)
