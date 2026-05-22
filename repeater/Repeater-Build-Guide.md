@@ -157,7 +157,9 @@ Tighten the zip ties enough to hold the board firmly in place, but don't get too
 ![Perfboard 5](./pics/perf-5.jpg)
 ![Perfboard 6](./pics/perf-6.jpg)
 
-Use zip ties to attach the battery to the bottom half of the perfboard.
+Use zip ties to attach the battery to the bottom half of the perfboard.  You may have to daisy chain three zip ties together to have enough to reach all the way around the battery.
+
+Secure the battery at the top, middle and bottom.  Tighten enough so the battery is held firmly in place, but don't get too aggressive.
 
 ![Perfboard 7](./pics/perf-7.jpg)
 ![Perfboard 8](./pics/perf-8.jpg)
