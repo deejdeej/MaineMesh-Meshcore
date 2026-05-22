@@ -89,11 +89,6 @@ https://www.amazon.com/dp/B08H8J6ZV6
 
 # Build it
 
-TO DO:  Figure out options to seal up the solar panel USB cable where it passes through the cable gland.  RTV?  Rubber grommet?
-
-TO DO:  Add more pictures to fill in details below.
-
-
 ## Gather the parts
 
 Gather the parts that you need to put the node together.
