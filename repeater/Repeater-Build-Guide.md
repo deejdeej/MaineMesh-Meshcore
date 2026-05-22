@@ -91,7 +91,7 @@ https://www.amazon.com/dp/B08H8J6ZV6
 
 ## Gather the parts
 
-Gather the parts that you need to put the node together.
+Gather the parts that you need to put the repeater together.
 
 ![Parts 1](./pics/parts-1.jpg)
 ![Parts 2](./pics/parts-2.jpg)
