@@ -169,7 +169,7 @@ DO NOT CONNECT THE BATTERY TO THE RAK RADIO.  You will damage the radio if you p
 
 ## Connections
 
-Connect the antenna coax cable to the RAK radio.  Use a zip tie to secure the coax cable to the nearby hole in the RAK 13302 board.
+Connect the antenna coax cable IPEX connection to the RAK radio.  Use a zip tie to secure the coax cable to the nearby hole in the RAK 13302 board.  This zip tie is important to hold the antenna connector in place so it is not easily dislodged.  
 
 ![Connections 1](./pics/connections-1.jpg)
 
