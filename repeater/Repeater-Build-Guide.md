@@ -161,11 +161,12 @@ Use zip ties to attach the battery to the bottom half of the perfboard.  You may
 
 Secure the battery at the top, middle and bottom.  Tighten enough so the battery is held firmly in place, but don't get too aggressive.
 
+**DO NOT CONNECT THE BATTERY TO THE RAK RADIO.  You will damage the radio if you power it on without an antenna attached.**
+
 ![Perfboard 7](./pics/perf-7.jpg)
 ![Perfboard 8](./pics/perf-8.jpg)
 ![Perfboard 9](./pics/perf-9.jpg)
 
-**DO NOT CONNECT THE BATTERY TO THE RAK RADIO.  You will damage the radio if you power it on without an antenna attached.**
 
 ## Connections
 
