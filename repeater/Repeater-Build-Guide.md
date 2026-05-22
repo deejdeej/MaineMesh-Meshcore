@@ -170,6 +170,8 @@ Secure the battery at the top, middle and bottom.  Tighten enough so the battery
 
 ## Connections
 
+The little IPEX connectors are somewhat fragile, so work carefully when connecting those.
+
 Connect the antenna coax cable IPEX connection to the RAK radio.  Use a zip tie to secure the coax cable to the nearby hole in the RAK 13302 board.  This zip tie is important to hold the antenna connector in place so it is not easily dislodged.  
 
 ![Connections 1](./pics/connections-1.jpg)
@@ -178,9 +180,7 @@ Plug the solar cable pigtail into the RAK radio.  **Make sure you have the conne
 
 ![Solar Power 1](./pics/solar-power-1.jpg)
 
-Bundle the solar cable up and use zip ties to secure it to the left side of the perfboard.  Leave the USB-C connector pointing towards the bottom about halfway up the perfboard.
-
-The little IPEX connectors are somewhat fragile, so work carefully when connecting the following:
+Bundle up the solar cable pigtail and use zip ties to secure it to the left side of the perfboard.  Leave a couple of inches free on the USB end to make it easier to plug in the solar panel USB-C cable later.
 
 Connect the Bluetooth antenna to the RAK radio.
 
