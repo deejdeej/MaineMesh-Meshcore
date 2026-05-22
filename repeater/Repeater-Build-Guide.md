@@ -249,21 +249,21 @@ Once in DFU mode, click "Erase Flash".
 
 When the pop up window says "You can flash Meshcore now", click OK.
 
-You need to DISCONNECT the USB cable from the radio and ensure it powers down.
+You need to DISCONNECT the USB cable from your computer and ensure the RAK radio powers down.
 
-You should now install the OTAFIX bootloader.  Click on the link "OTAFIX bootloader" near the top of the page and download the bootloader firmware.  It will be called something like "wiscore_rak4631_board_bootloader-0.9.2-OTAFIX2.2.uf2".
+Now install the OTAFIX bootloader.  Click on the link "OTAFIX bootloader" near the top of the page and download the bootloader firmware.  It will be called something like "wiscore_rak4631_board_bootloader-0.9.2-OTAFIX2.2.uf2".
 
 ![Bootloader 1](./pics/bootload-1.png)
 
-Wait 10 seconds, then reconnect the USB cable to the radio to power it back on.
+Wait 10 seconds, then reconnect the USB cable to your computer to power the RAK radio back on.
 
 Put the radio into DFU mode again by pressing the reset button twice rapidly.  A pop up window should come up showing the files on the radio.  Copy and paste the OTAFIX bootloader file into this window.
 
 The radio will reboot.
 
-Wait 20 seconds, then DISCONNECT the USB cable from the radio and ensure it powers down.
+Wait 20 seconds, then DISCONNECT the USB cable from your computer and ensure the RAK radio powers down.
 
-Wait 10 seconds, then reconnect the USB cable to the radio to power it back on.
+Wait 10 seconds, then reconnect the USB cable to your computer to power the RAK radio back on.
 
 Put the radio into DFU mode again.  A pop up window should come up showing the files on the radio.  
 
@@ -271,7 +271,7 @@ Click the "Flash!" button to install the Meshcore firmware on the radio.
 
 When the firmware has installed, click on the "Configure via USB" button and configure the radio using the recommendations on the [Repeater page](README.md).
 
-Once done, disconnect the USB-C cable, and ensure there is no power going to the RAK radio (Making sure the USB, Battery, and solar are NOT connected).
+Once done, disconnect the USB-C cable from the RAK radio and your computer, and ensure there is no power going to the RAK radio (Making sure the USB, Battery, and solar are NOT connected).
 
 ##  Mount it
 
