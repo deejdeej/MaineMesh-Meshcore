@@ -275,6 +275,10 @@ If you are using one of the larger antennas, mount the antenna to the top of the
 
 ## Power it up
 
+Ensure that the jumper for power selection is in the "Internal" position.  This would be towards the left as seen in this picture:
+
+![Power Select 1](./pics/powerselect-1.jpg)
+
 After double checking that the antenna is connected properly, you are now ready to power on the RAK radio.
 
 Inside the enclosure, connect the battery to the RAK radio.
