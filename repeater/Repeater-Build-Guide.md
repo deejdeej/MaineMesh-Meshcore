@@ -211,11 +211,15 @@ Peel the backing from the sticky tape on the Bluetooth antenna, and stick it on 
 ## Antenna
 
 At this point you need an antenna connected before you can configure the radio.  
+
 If you have one of the small ALFA 915 antennas, you can screw it onto the antenna connector on the top of the enclosure.
 
 If you have the larger antennas, laying it out alongside the enclosure on a wooden or plastic table might make it easier due to the size.  There is a chance that a metal table might severely affect the SWR of the antenna if the antenna is paying on it, so you might want to avoid using a metal table.
 
-Connect the antenna and coax and double check it is connected properly.
+Connect the external antenna and external coax cable and double check it is connected properly.
+
+![Antenna 1](./pics/antenna-1.jpg)
+
 
 ## Configuration
 
@@ -223,9 +227,9 @@ With the antenna properly connected, we can now install the firmware.
 
 Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  A 90 degree USB-C adapter can make it easier to connect the USB cable to the RAK.
 
-![USB 1](./pics/usb-1.jpg)
-
 **Note the battery should be left disconnected at this time.**
+
+![USB 1](./pics/usb-1.jpg)
 
 For the RAK Wireless 1 watt radio, you will need to erase the flash, install the OTAFIX bootloader, erase the flash again, then install the Meshcore firmware.
 
