@@ -237,7 +237,7 @@ For the RAK Wireless 1 watt radio, you will need to:
 
 To do this:
 
-Use the Meshcore Web Flasher located at [https://meshcore.io/flasher](https://meshcore.io/flasher).
+Use the Meshcore Web Flasher located at [https://meshcore.io/flasher](https://meshcore.io/flasher)
 
 Select "RAK WisMesh 1W Booster (3401 + 13302)".
 
