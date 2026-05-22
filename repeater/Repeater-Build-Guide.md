@@ -175,6 +175,8 @@ Connect the antenna coax cable IPEX connection to the RAK radio.  Use a zip tie 
 
 Plug the solar cable pigtail into the RAK radio.  Make sure you have the connector and the red wire oriented correctly!
 
+![Solar Power 1](./pics/solar-power-1.jpg)
+
 Bundle the solar cable up and use zip ties to secure it to the left side of the perfboard.  Leave the USB-C connector pointing towards the bottom about halfway up the perfboard.
 
 The little IPEX connectors are somewhat fragile, so work carefully when connecting the following:
@@ -281,7 +283,9 @@ Ensure that the jumper for power selection is in the "Internal" position.  This 
 
 After double checking that the antenna is connected properly, you are now ready to power on the RAK radio.
 
-Inside the enclosure, connect the battery to the RAK radio.
+Inside the enclosure, connect the battery to the RAK radio.  Make sure you have the connector and the red wire oriented correctly!  Note the red wire is on the OPPOSITE side as the red wire for the solar connector.
+
+![Battery Power 1](./pics/battery-power-1.jpg)
 
 The cable gland is large enough to pass the solar panel USB-C plug through, but that leaves a gap for the solar panel cable itself.  We need to seal this up to keep bugs from building nests here.
 
