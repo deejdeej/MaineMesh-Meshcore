@@ -6,7 +6,7 @@
 
 **RAKWireless parts:**
 
-Note when ordering from RAK Wireless, choose the DDP (Delivery Duty Paid) shipping option so you don't get a separate bill for tariffs + tariff collection fees.
+When ordering from RAK Wireless, choose the DDP (Delivery Duty Paid) shipping option so you don't get a separate bill for tariffs + tariff collection fees.
 
 RAK 3401 1 watt radio 915 Mhz:
 https://store.rakwireless.com/products/meshtastic-1w-lora-booster-kit-rak3401?variant=45678368882886
@@ -62,7 +62,7 @@ Black RTV
 
 **Options to consider:**
 
-Note that the legal maximum power allowed in the US is a 1 watt transmitter attached to a 5.8dBi antenna.
+The legal maximum power allowed in the US is a 1 watt transmitter attached to a 5.8dBi antenna.
 The 10 dBi antenna can help to increase the receive signal strength for listening to far away repeaters, however you will have to turn the TX power down to 18 to comply with legal restrictions.
 
 10 dBi Rokland Backcountry Rural N-Male Antenna:
@@ -139,7 +139,7 @@ Test fit the cable gland and the antenna bulkhead mount in the holes, then remov
 
 ## Populate the perfboard
 
-Note: When using zip ties, trim the excess using [flush cutters](https://www.amazon.com/dp/B00FZPDG1K?th=1) so as to not leave a sharp edge.  Scissors or normal wire cutters can leave a very sharp edge on the zip tie that you will eventually cut yourself on.  
+When using zip ties, trim the excess using [flush cutters](https://www.amazon.com/dp/B00FZPDG1K?th=1) so as to not leave a sharp edge.  Scissors or normal wire cutters can leave a very sharp edge on the zip tie that you will eventually cut yourself on.  
 
 Connect a zip tie back on itself to make a spacer.  Make three of these.  
 
