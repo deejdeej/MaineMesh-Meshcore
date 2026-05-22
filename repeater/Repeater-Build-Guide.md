@@ -334,9 +334,19 @@ Slide the solar panel USB cable through the rubber gasket by about 3 inches.
 
 Fill the gap between the solar panel USB cable and the rubber gasket with black RTV.
 
-Allow this to cure overnight.
+Allow this to cure overnight BEFORE attempting the next step.
 
-Slide the solar panel USB cable in through the outer part of the cable gland (the screw cap), , then slide the cable through the gland itself and connect it to the USB-C pigtail.
+In order to make the gasket removable, cut a slit in the gasket lengthwise (along the length of the cable).  This allows you to remove the rubber gasket from the solar panel USB cable.  The flush cutters work well to make a clean cut without damaging the cable.
+
+Remove the gasket from the cable.
+
+Slide the solar panel USB cable in through the outer part of the cable gland (the screw cap).
+
+Put the gasket on the cable, between the USB end and the outer part of the cable gland.
+
+Slide the USB end of the cable through the cable gland itself into the enclosure and connect it to the USB-C pigtail.
+
+Slide the gasket up the cable, and insert the gasket into the cable gland.
 
 Screw the bottom part of the cable gland on and tighten it.  It should form a complete seal with no gaps or holes.
 
