@@ -174,7 +174,7 @@ Connect the antenna coax cable IPEX connection to the RAK radio.  Use a zip tie 
 
 ![Connections 1](./pics/connections-1.jpg)
 
-Plug the solar cable pigtail into the RAK radio.  Make sure you have the connector and the red wire oriented correctly!
+Plug the solar cable pigtail into the RAK radio.  **Make sure you have the connector and the red wire oriented correctly!**
 
 ![Solar Power 1](./pics/solar-power-1.jpg)
 
@@ -225,7 +225,7 @@ Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  A 
 
 ![USB 1](./pics/usb-1.jpg)
 
-Note the battery should be left disconnected at this time.
+**Note the battery should be left disconnected at this time.**
 
 For the RAK Wireless 1 watt radio, you will need to erase the flash, install the OTAFIX bootloader, erase the flash again, then install the Meshcore firmware.
 
@@ -284,7 +284,7 @@ Ensure that the jumper for power selection is in the "Internal" position.  This 
 
 After double checking that the antenna is connected properly, you are now ready to power on the RAK radio.
 
-Inside the enclosure, connect the battery to the RAK radio.  Make sure you have the connector and the red wire oriented correctly!  Note the red wire is on the OPPOSITE side as the red wire for the solar connector.
+Inside the enclosure, connect the battery to the RAK radio.  **Make sure you have the connector and the red wire oriented correctly!  Note the red wire is on the OPPOSITE side as the red wire for the solar connector.**
 
 ![Battery Power 1](./pics/battery-power-1.jpg)
 
