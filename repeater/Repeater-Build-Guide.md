@@ -233,7 +233,7 @@ For the RAK Wireless 1 watt radio, you will need to:
 1) Erase the flash
 2) Install the OTAFIX bootloader
 3) Erase the flash again
-4) Install the Meshcore firmware.
+4) Install the Meshcore firmware
 
 To do this:
 
@@ -261,7 +261,9 @@ Click on the link "OTAFIX bootloader" near the top of the page and download the 
 
 Wait 10 seconds, then reconnect the USB cable to your computer to power the RAK radio back on.
 
-Put the radio into DFU mode again by pressing the reset button twice rapidly.  A pop up window should come up showing the files on the radio.  Copy and paste the OTAFIX bootloader file into this window.
+Put the radio into DFU mode again by pressing the reset button twice rapidly.  A pop up window should come up showing the files on the radio.  
+
+Copy and paste the OTAFIX bootloader file into this window.
 
 The radio will reboot.
 
@@ -324,7 +326,7 @@ Inside the enclosure, connect the battery to the RAK radio.  **Make sure you hav
 
 The cable gland is large enough to pass the solar panel USB-C plug through, but that leaves a gap for the solar panel cable itself.  We need to seal this up to keep bugs from building nests here.
 
-You may be able to find a rubber grommet that is the correct size.  I chose to use black RTV (gasket maker).
+You may be able to find a rubber grommet that is the correct size.  I chose to use [black RTV (gasket maker)](https://www.amazon.com/dp/B0002UEN1U?th=1).
 
 Unscrew the outside section of the cable gland, and remove the rubber gasket.
 
