@@ -59,6 +59,7 @@ https://store.rokland.com/products/rak-wireless-5-8-dbi-outdoor-black-fiberglass
 **Miscellaneous parts:**
 
 Three 1 inch long 1/4 inch bolts, three nuts, and six washers.
+Black RTV
 
 
 **Options to consider:**
@@ -100,6 +101,15 @@ TO DO:  Add more pictures to fill in details below.
 Gather the parts that you need to put the node together.
 
 ![Parts 1](./pics/parts-1.jpg)
+![Parts 2](./pics/parts-2.jpg)
+![Parts 3](./pics/parts-3.jpg)
+
+
+## Install the GPS
+
+Install the 12500 GPS into slot A on the RAK radio.
+
+![GPS 1](./pics/gps-1.jpg)
 
 ## Make the solar cable
 
@@ -140,17 +150,33 @@ Note: When using zip ties, trim the excess using [flush cutters](https://www.ama
 
 Connect a zip tie back on itself to make a spacer.  Make three of these.  
 
+![Perfboard 1](./pics/perf-1.jpg)
+
 Put the spacers between the RAK radio and the perfboard under each mounting hole, and use three zip ties to attach the RAK radio to the top half of the perfboard, using the three mounting holes as shown in the picture.
 
 Be careful of the small LEDs mounted on the end of the board (to the right in the pictures)!  Place the zip ties going towards the top and bottom respectively instead of going over the top of the LEDs.
 
 Tighten the zip ties enough to hold the board in place, but don't overtighten enough that you bend the board and potentially cause damage.  
 
+![Perfboard 2](./pics/perf-2.jpg)
+![Perfboard 3](./pics/perf-3.jpg)
+![Perfboard 4](./pics/perf-4.jpg)
+![Perfboard 5](./pics/perf-5.jpg)
+![Perfboard 6](./pics/perf-6.jpg)
+
 Use zip ties to attach the battery to the bottom half of the perfboard.
+
+![Perfboard 7](./pics/perf-7.jpg)
+![Perfboard 8](./pics/perf-8.jpg)
+![Perfboard 9](./pics/perf-9.jpg)
 
 DO NOT CONNECT THE BATTERY TO THE RAK RADIO.  You will damage the radio if you power it on without an antenna attached.
 
 ## Connections
+
+Connect the antenna coax cable to the RAK radio.  Use a zip tie to secure the coax cable to the nearby hole in the RAK 13302 board.
+
+![Connections 1](./pics/connections-1.jpg)
 
 Plug the solar cable pigtail into the RAK radio.  Make sure you have the connector and the red wire oriented correctly!
 
@@ -162,7 +188,8 @@ Connect the Bluetooth antenna to the RAK radio.
 
 Connect the GPS antenna to the RAK radio.
 
-Connect the antenna coax cable to the RAK radio.  Use a zip tie to secure the coax cable to the nearby hole in the RAK 13302 board.
+![Connections 2](./pics/connections-2.jpg)
+
 
 ## Mount everything in the enclosure
 
@@ -178,6 +205,11 @@ Peel the backing from the sticky tape on the Bluetooth antenna, and stick it on 
 
 Leave the battery disconnected for now.  You will damage the radio if you power it on without an antenna attached.
 
+![Mount 1](./pics/mount-1.jpg)
+![Mount 2](./pics/mount-2.jpg)
+![Mount 3](./pics/mount-3.jpg)
+![Mount 4](./pics/mount-4.jpg)
+
 ## Antenna
 
 At this point you need an antenna connected before you can configure the radio.  
@@ -192,6 +224,8 @@ Connect the antenna and coax and double check it is connected properly.
 With the antenna properly connected, we can now install the firmware.
 
 Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  A 90 degree USB-C adapter can make it easier to connect the USB cable to the RAK.
+
+![USB 1](./pics/usb-1.jpg)
 
 Note the battery should be left disconnected at this time.
 
@@ -229,6 +263,11 @@ Once done, disconnect the USB-C cable, and ensure there is no power going to the
 
 If you are going to mount the repeater on a pole, attach the pole mounting kit to the back of the enclosure.
 
+Use the screws included with the enclosure, not the mounting kit.
+
+![Mount Kit 1](./pics/mountkit-1.jpg)
+![Mount Kit 2](./pics/mountkit-2.jpg)
+
 If you are going to mount the solar panel on a pole, remove the blue plastic protective film from the Universal Mounting bracket, and mount it to the solar panel using three 1 inch long 1/4 inch bolts, three nuts, and six washers.  Place washers both under the head of the bolts and under the nut.  If the holes in the solar panel bracket are a little tight, you can relieve them a little bit with a small round file, or drill them out with a 1/4 drill bit.
 
 ![Solar Panel 1](./pics/solar-panel-1.jpg)
@@ -245,5 +284,25 @@ After double checking that the antenna is connected properly, you are now ready 
 
 Inside the enclosure, connect the battery to the RAK radio.
 
-Slide the solar panel USB cable in through the cable gland on the bottom of the enclosure, and connect it to the USB-C pigtail that is mounted on the left side of the perfboard.
+The cable gland is large enough to pass the solar panel USB-C plug through, but that leaves a gap for the solar panel cable itself.  We need to seal this up to keep bugs from building nests here.
+
+You may be able to find a rubber grommet that is the correct size.  I chose to use black RTV (gasket maker).
+
+Unscrew the outside section of the cable gland, and remove the rubber gasket.
+
+Slide the solar panel USB cable through the rubber gasket by about 3 inches.
+
+Fill the gap between the solar panel USB cable and the rubber gasket with black RTV.
+
+Allow this to cure overnight.
+
+Slide the solar panel USB cable in through the outer part of the cable gland (the screw cap), , then slide the cable through the gland itself and connect it to the USB-C pigtail.
+
+Screw the bottom part of the cable gland on and tighten it.  It should form a complete seal with no gaps or holes.
+
+![Cable Gland 1](./pics/gland-1.jpg)
+![Cable Gland 2](./pics/gland-2.jpg)
+![Cable Gland 3](./pics/gland-3.jpg)
+![Cable Gland 4](./pics/gland-4.jpg)
+![Cable Gland 5](./pics/gland-5.jpg)
 
