@@ -223,7 +223,7 @@ Connect the external antenna and external coax cable and double check it is conn
 
 With the antenna properly connected, we can now install the firmware.
 
-Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  A 90 degree USB-C adapter can make it easier to connect the USB cable to the RAK.
+Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  A [90 degree USB-C adapter](https://www.amazon.com/dp/B0C2WKDYT6?th=1) can make it easier to connect the USB cable to the RAK.
 
 **Note the battery should be left disconnected at this time.**
 
