@@ -237,17 +237,27 @@ For the RAK Wireless 1 watt radio, you will need to:
 
 To do this:
 
-Click the physical reset button on the RAK radio twice rapidly to put it in DFU mode.  A pop up window should appear showing the files on the RAK radio.
+Use the Meshcore Web Flasher located at [https://meshcore.io/flasher](https://meshcore.io/flasher).
 
-Once in DFU mode, then click "Erase Flash".  
+Select "RAK WisMesh 1W Booster (3401 + 13302)".
 
-When the pop up window says "You can flash Meshcore now", you then need to DISCONNECT the USB cable from the radio and ensure it powers down.
+Select "Repeater".
+
+Click the physical reset button (next to the USB connector) on the RAK radio twice rapidly to put it in DFU mode.  A pop up window should appear on your computer showing the files on the RAK radio.
+
+Once in DFU mode, click "Erase Flash".  
+
+When the pop up window says "You can flash Meshcore now", click OK.
+
+You need to DISCONNECT the USB cable from the radio and ensure it powers down.
 
 You should now install the OTAFIX bootloader.  Click on the link "OTAFIX bootloader" near the top of the page and download the bootloader firmware.  It will be called something like "wiscore_rak4631_board_bootloader-0.9.2-OTAFIX2.2.uf2".
 
+![Bootloader 1](./pics/bootload-1.png)
+
 Wait 10 seconds, then reconnect the USB cable to the radio to power it back on.
 
-Put the radio into DFU mode again (same way as above).  A pop up window should come up showing the files on the radio.  Copy and paste the OTAFIX bootloader file into this window.
+Put the radio into DFU mode again by pressing the reset button twice rapidly.  A pop up window should come up showing the files on the radio.  Copy and paste the OTAFIX bootloader file into this window.
 
 The radio will reboot.
 
@@ -255,7 +265,7 @@ Wait 20 seconds, then DISCONNECT the USB cable from the radio and ensure it powe
 
 Wait 10 seconds, then reconnect the USB cable to the radio to power it back on.
 
-Put the radio into DFU mode again (same way as above).  A pop up window should come up showing the files on the radio.  
+Put the radio into DFU mode again.  A pop up window should come up showing the files on the radio.  
 
 Click the "Flash!" button to install the Meshcore firmware on the radio.
 
