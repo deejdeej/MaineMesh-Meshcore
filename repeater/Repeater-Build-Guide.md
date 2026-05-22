@@ -229,7 +229,13 @@ Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  A 
 
 ![USB 1](./pics/usb-1.jpg)
 
-For the RAK Wireless 1 watt radio, you will need to erase the flash, install the OTAFIX bootloader, erase the flash again, then install the Meshcore firmware.
+For the RAK Wireless 1 watt radio, you will need to:
+'''
+1) Erase the flash
+2) Install the OTAFIX bootloader
+3) Erase the flash again
+4) Install the Meshcore firmware.
+'''
 
 To do this:
 
