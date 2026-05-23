@@ -193,7 +193,9 @@ Connect the GPS antenna to the RAK radio.
 
 Carefully lower the perfboard into the enclosure and secure it with the two screws.
 
-Insert the antenna bulkhead mount through the top hole in the enclosure and secure it with the nut and lock washer.  Use one wrench to hold the bullkhead connector in place and a second wrench to tighten the nut.  You want it tight enough that it will not rotate in the hole when you attach an external antenna or coax cable.
+Insert the antenna bulkhead mount through the top hole in the enclosure and secure it with the nut and lock washer.  Note the red rubber gasket on the antenna bulklhead goes on the inside of the enclosure.  It presses up against the inside top of the enclosure when the bulkhead connector has been tightened, preventing water from entering the enclosure.
+
+Use one wrench to hold the bullkhead connector in place and a second wrench to tighten the nut.  You want it tight enough that it will not rotate in the hole when you attach an external antenna or coax cable.
 
 Insert the cable gland in the bottom hole.  You want it fairly tight, but be careful not to overtighten and strip the plastic threads.
 
@@ -299,7 +301,7 @@ Once done, disconnect the USB-C cable from the RAK radio and your computer, and 
 
 ## Seal the solar panel connection
 
-The cable gland is large enough to pass the solar panel USB-C plug through, but that leaves a gap for the solar panel cable itself.  We need to seal this up to keep bugs from building nests here.
+The cable gland is large enough to pass the solar panel USB-C plug through, but leaves a gap for the solar panel cable itself.  We need to seal this up to keep bugs from building nests here.
 
 You may be able to find a rubber grommet that is the correct size.  I chose to use [black RTV (gasket maker)](https://www.amazon.com/dp/B0002UEN1U?th=1) to make one instead.
 
@@ -352,6 +354,9 @@ If you are going to mount the solar panel on a pole, remove the blue plastic pro
 Using hose clamps, mount the solar panel and the enclosure to the pole.
 
 If you are using one of the larger antennas, mount the antenna to the top of the pole, and connect the coax cable to the antenna and the bulkhead connector on the top of the enclosure.
+
+Use Coax Seal to make a watertight seal to keep any moisture from entering the antenna and/or coax.
+
 
 ## Power it up
 
