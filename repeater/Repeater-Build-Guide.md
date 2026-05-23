@@ -129,7 +129,7 @@ A step drill makes drilling the holes easy and clean.  I like to use a small rou
 
 Drill out the top of the enclosure for the antenna bulkhead connector, and the bottom of the enclosure for the cable gland (use one of the cable glands included with the enclosure).
 
-Suggested locations for the holes can be seen in the pictures below.  Leave enough space for the RAK radio to fit between the antenna coax and the perfboard.
+Suggested locations for the holes can be seen in the pictures below.  Leave enough space for the RAK radio to fit between the antenna bulkhead connector and the perfboard.
 
 Test fit the cable gland and the antenna bulkhead mount in the holes, then remove them and set them aside for now.
 
@@ -151,7 +151,7 @@ Connect a zip tie back on itself to make a spacer.  Make three of these.
 
 Put the spacers between the RAK radio and the perfboard under each mounting hole, and use three zip ties to attach the RAK radio to the top half of the perfboard, using the three mounting holes as shown in the picture.
 
-Be careful of the small LEDs mounted on the end of the board (to the right in the pictures)!  Place the zip ties going towards the top and bottom respectively instead of going over the top of the LEDs.
+Be careful of the small LEDs mounted on the end of the board (to the right in the second and third pictures below)!  Place the zip ties going towards the top and bottom respectively instead of going over the top of the LEDs.
 
 Tighten the zip ties enough to hold the board firmly in place, but don't get too agressive here.  
 
@@ -182,9 +182,9 @@ Connect the antenna coax cable IPEX connection to the RAK radio.  Use a zip tie 
 
 Plug the solar cable pigtail into the RAK radio.  **Make sure you have the connector and the red wire oriented correctly!**
 
-![Solar Power 1](./pics/solar-power-1.jpg)
+![Solar Power 1](./pics/solar-power-1.png)
 
-Bundle up the solar cable pigtail and use zip ties to secure it to the left side of the perfboard.  Leave a couple of inches free on the USB end to make it easier to plug in the solar panel USB-C cable later.
+Bundle up the solar cable pigtail and use zip ties to secure it to the top and left sides of the perfboard as shown.  Leave a couple of inches free on the USB end to make it easier to plug in the solar panel USB-C cable later.
 
 Connect the Bluetooth antenna to the RAK radio.
 
