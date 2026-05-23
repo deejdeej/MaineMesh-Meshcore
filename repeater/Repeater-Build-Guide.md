@@ -267,7 +267,7 @@ You need to DISCONNECT the USB cable from your computer and ensure the RAK radio
 
 2) Install the OTAFIX bootloader.  
 
-Click on the link "OTAFIX bootloader" near the top of the page and download the bootloader firmware.  It will be called something like "wiscore_rak4631_board_bootloader-0.9.2-OTAFIX2.2.uf2".
+Click on the link "OTAFIX bootloader" near the top of the page and download the bootloader firmware.  Note the link to the file is the actual text "OTAFIX bootloader", and not the "Read more" at the end.  The downloaded file will be called something like "wiscore_rak4631_board_bootloader-0.9.2-OTAFIX2.2.uf2".
 
 ![Bootloader 1](./pics/bootload-1.png)
 
