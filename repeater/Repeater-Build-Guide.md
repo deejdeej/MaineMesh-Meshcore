@@ -231,7 +231,7 @@ Connect the external antenna and external coax cable and double check it is conn
 
 With the antenna properly connected, we can now install the firmware.
 
-Ensure that the jumper for power selection is in the "Internal" position on the RAK radio.  This would be towards the left as seen in this picture:
+Ensure that the jumper for power selection is in the "Internal" position on the RAK radio.  The jumper should be in the left position as seen in this picture:
 
 ![Power Select 1](./pics/powerselect-1.jpg)
 
@@ -307,7 +307,7 @@ Once done, disconnect the USB-C cable from the RAK radio and your computer, and 
 
 ## Seal the solar panel connection
 
-The cable gland is large enough to pass the solar panel USB-C plug through, but leaves a gap for the solar panel cable itself.  We need to seal this up to keep bugs from building nests here.
+The cable gland is large enough to pass the solar panel USB-C plug through, but leaves a gap around the solar panel USB cable.  We need to seal this up to keep bugs from getting in here.
 
 You may be able to find a rubber grommet that is the correct size.  I chose to use [black RTV (gasket maker)](https://www.amazon.com/dp/B0002UEN1U?th=1) to make one instead.
 
@@ -321,7 +321,7 @@ Allow this to cure overnight BEFORE attempting the next step.
 
 In order to make the gasket removable, cut a slit in the gasket lengthwise (along the length of the cable).  This allows you to remove the rubber gasket from the solar panel USB cable.  The flush cutters work well to make a clean cut without damaging the cable.
 
-Remove the gasket from the cable.
+Remove the gasket from the cable.  You may need to use the flush cutters to carefully separate the RTV from the USB cable.  When done you want to end up with a gasket with a small hole the same size as the USB cable.  
 
 Slide the solar panel USB cable in through the outer part of the cable gland (the screw cap).
 
@@ -364,7 +364,7 @@ If you are using one of the larger antennas, mount the antenna to the top of the
 
 Using hose clamps, mount the solar panel and the enclosure to the pole.
 
-Bundle up the excess solar panel USB cable, and zip tie to the solar panel mount.  Be sure to leave a drop loop in the cable to allow water to drip off the cable instead of running up against the solar panel or the enclosure.
+Bundle up the excess solar panel USB cable, and zip tie to the solar panel mount.  Be sure to leave a drip loop in the cable to allow water to drip off the cable instead of running up against the solar panel or the enclosure.
 
 Use Coax Seal to make a watertight seal to keep any moisture from entering the antenna and/or coax.
 
@@ -379,7 +379,7 @@ Please note that a short pole was used for demonstration purposes in the picture
 
 At this point there should not be any power connected to the radio.
 
-The jumper should already be in the "Internal" position on the RAK radio from a previous step, but double check now to be sure.  This would be towards the left as seen in this picture:
+The jumper should already be in the "Internal" position on the RAK radio from a previous step, but double check now to be sure.  The jumper should be in the left position as seen in this picture:
 
 ![Power Select 1](./pics/powerselect-1.jpg)
 
