@@ -1,4 +1,4 @@
-# This is a DRAFT document subject to change as we work out the details.
+# This is a DRAFT document subject to change
 
 # Build Guide to make a Meshcore solar repeater using the RAK Wireless 1 watt radio
 
