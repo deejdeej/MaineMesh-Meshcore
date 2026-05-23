@@ -61,6 +61,8 @@ Three 1 inch long 1/4 inch bolts, three nuts, and six washers.
 
 [Black RTV (gasket maker)](https://www.amazon.com/dp/B0002UEN1U?th=1)
 
+Optional:  I like these hose clamps better than the ones that come with the mounting kits:  https://www.amazon.com/dp/B08D9B1SWK?th=1
+
 
 **Options to consider:**
 
