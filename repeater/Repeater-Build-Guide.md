@@ -1,8 +1,9 @@
 # This is a DRAFT document subject to change as we work out the details.
 
-# Build Guide to make a solar repeater using the RAK Wireless 1 watt radio
+# Build Guide to make a Meshcore solar repeater using the RAK Wireless 1 watt radio
 
-## Parts for the 1 watt RAK MeshCore solar powered repeater.
+
+## Parts needed
 
 **RAKWireless parts:**
 
