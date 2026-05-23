@@ -370,6 +370,8 @@ Bundle up the excess solar panel USB cable, and zip tie to the solar panel mount
 
 Use Coax Seal to make a watertight seal to keep any moisture from entering the antenna and/or coax.
 
+Please note that a short pole was used for demonstration purposes in the pictures below.  
+
 ![Pole Mount 1](./pics/polemount-1.jpg)
 ![Pole Mount 2](./pics/polemount-2.jpg)
 ![Pole Mount 3](./pics/polemount-3.jpg)
