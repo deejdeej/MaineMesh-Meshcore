@@ -223,6 +223,10 @@ Connect the external antenna and external coax cable and double check it is conn
 
 With the antenna properly connected, we can now install the firmware.
 
+Ensure that the jumper for power selection is in the "Internal" position on the RAK radio.  This would be towards the left as seen in this picture:
+
+![Power Select 1](./pics/powerselect-1.jpg)
+
 Connect a USB-C cable from the USB-C port on the RAK radio to your computer.  A [90 degree USB-C adapter](https://www.amazon.com/dp/B0C2WKDYT6?th=1) can make it easier to connect the USB cable to the RAK.
 
 **Note the battery should be left disconnected at this time.**
@@ -293,6 +297,43 @@ When the firmware has finished installing, and the radio has rebooted, click on 
 
 Once done, disconnect the USB-C cable from the RAK radio and your computer, and ensure there is no power going to the RAK radio (Making sure the USB, Battery, and solar are NOT connected).
 
+## Seal the solar panel connection
+
+The cable gland is large enough to pass the solar panel USB-C plug through, but that leaves a gap for the solar panel cable itself.  We need to seal this up to keep bugs from building nests here.
+
+You may be able to find a rubber grommet that is the correct size.  I chose to use [black RTV (gasket maker)](https://www.amazon.com/dp/B0002UEN1U?th=1) to make one instead.
+
+Unscrew the outside section of the cable gland, and remove the rubber gasket.
+
+Slide the solar panel USB cable through the rubber gasket by about 3 inches.
+
+Fill the gap between the solar panel USB cable and the rubber gasket with black RTV.
+
+Allow this to cure overnight BEFORE attempting the next step.
+
+In order to make the gasket removable, cut a slit in the gasket lengthwise (along the length of the cable).  This allows you to remove the rubber gasket from the solar panel USB cable.  The flush cutters work well to make a clean cut without damaging the cable.
+
+Remove the gasket from the cable.
+
+Slide the solar panel USB cable in through the outer part of the cable gland (the screw cap).
+
+Put the gasket on the cable, between the USB end and the outer part of the cable gland.
+
+Slide the USB end of the cable through the cable gland itself into the enclosure.  
+
+**Do NOT connect it to the USB-C pigtail yet.**
+
+Slide the gasket up the cable, and insert the gasket into the cable gland.
+
+Screw the bottom part of the cable gland on and tighten it.  It should form a complete seal with no gaps or holes.
+
+![Cable Gland 1](./pics/gland-1.jpg)
+![Cable Gland 2](./pics/gland-2.jpg)
+![Cable Gland 3](./pics/gland-3.jpg)
+![Cable Gland 4](./pics/gland-4.jpg)
+![Cable Gland 5](./pics/gland-5.jpg)
+
+
 ##  Mount it
 
 If you are going to mount the repeater on a pole, attach the pole mounting kit to the back of the enclosure.
@@ -314,45 +355,21 @@ If you are using one of the larger antennas, mount the antenna to the top of the
 
 ## Power it up
 
-Ensure that the jumper for power selection is in the "Internal" position.  This would be towards the left as seen in this picture:
+At this point there should not be any power connected to the radio.
+
+The jumper should already be in the "Internal" position on the RAK radio from a previous step, but double check now to be sure.  This would be towards the left as seen in this picture:
 
 ![Power Select 1](./pics/powerselect-1.jpg)
 
-After double checking that the antenna is connected properly, you are now ready to power on the RAK radio.
+After checking that the antenna is connected properly, you are now ready to plug in the battery to the RAK radio.
 
 Inside the enclosure, connect the battery to the RAK radio.  **Make sure you have the connector and the red wire oriented correctly!  Note the red wire is on the OPPOSITE side as the red wire for the solar connector.**
 
 ![Battery Power 1](./pics/battery-power-1.jpg)
 
-The cable gland is large enough to pass the solar panel USB-C plug through, but that leaves a gap for the solar panel cable itself.  We need to seal this up to keep bugs from building nests here.
+The Solar panel USB cable should already be inside the enclosure from a previous step.  Connect it to the USB pigtail.
 
-You may be able to find a rubber grommet that is the correct size.  I chose to use [black RTV (gasket maker)](https://www.amazon.com/dp/B0002UEN1U?th=1).
+You should now be able to connect to the repeater over the radio RF link from a companion node.  You may have to wait an hour for the first advert to happen before the repeater shows up in your contact list.
 
-Unscrew the outside section of the cable gland, and remove the rubber gasket.
-
-Slide the solar panel USB cable through the rubber gasket by about 3 inches.
-
-Fill the gap between the solar panel USB cable and the rubber gasket with black RTV.
-
-Allow this to cure overnight BEFORE attempting the next step.
-
-In order to make the gasket removable, cut a slit in the gasket lengthwise (along the length of the cable).  This allows you to remove the rubber gasket from the solar panel USB cable.  The flush cutters work well to make a clean cut without damaging the cable.
-
-Remove the gasket from the cable.
-
-Slide the solar panel USB cable in through the outer part of the cable gland (the screw cap).
-
-Put the gasket on the cable, between the USB end and the outer part of the cable gland.
-
-Slide the USB end of the cable through the cable gland itself into the enclosure and connect it to the USB-C pigtail.
-
-Slide the gasket up the cable, and insert the gasket into the cable gland.
-
-Screw the bottom part of the cable gland on and tighten it.  It should form a complete seal with no gaps or holes.
-
-![Cable Gland 1](./pics/gland-1.jpg)
-![Cable Gland 2](./pics/gland-2.jpg)
-![Cable Gland 3](./pics/gland-3.jpg)
-![Cable Gland 4](./pics/gland-4.jpg)
-![Cable Gland 5](./pics/gland-5.jpg)
+That's it!  :-)
 
