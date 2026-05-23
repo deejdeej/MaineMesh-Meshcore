@@ -57,6 +57,7 @@ https://store.rokland.com/products/rak-wireless-5-8-dbi-outdoor-black-fiberglass
 **Miscellaneous parts:**
 
 Three 1 inch long 1/4 inch bolts, three nuts, and six washers.
+
 Black RTV
 
 
