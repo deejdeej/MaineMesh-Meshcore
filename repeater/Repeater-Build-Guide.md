@@ -342,6 +342,9 @@ Screw the bottom part of the cable gland on and tighten it.  It should form a co
 ![Cable Gland 3](./pics/gland-3.jpg)
 ![Cable Gland 4](./pics/gland-4.jpg)
 ![Cable Gland 5](./pics/gland-5.jpg)
+![Cable Gland 6](./pics/gland-6.jpg)
+![Cable Gland 7](./pics/gland-7.jpg)
+![Cable Gland 8](./pics/gland-8.jpg)
 
 
 ##  Mount it
@@ -359,12 +362,18 @@ If you are going to mount the solar panel on a pole, remove the blue plastic pro
 ![Solar Panel 2](./pics/solar-panel-2.jpg)
 ![Solar Panel 3](./pics/solar-panel-3.jpg)
 
+If you are using one of the larger antennas, mount the antenna to the top of the pole, and connect the coax cable to the antenna and the bulkhead connector on the top of the enclosure.
+
 Using hose clamps, mount the solar panel and the enclosure to the pole.
 
-If you are using one of the larger antennas, mount the antenna to the top of the pole, and connect the coax cable to the antenna and the bulkhead connector on the top of the enclosure.
+Bundle up the excess solar panel USB cable, and zip tie to the solar panel mount.  Be sure to leave a drop loop in the cable to allow water to drip off the cable instead of running up against the solar panel or the enclosure.
 
 Use Coax Seal to make a watertight seal to keep any moisture from entering the antenna and/or coax.
 
+![Pole Mount 1](./pics/polemount-1.jpg)
+![Pole Mount 2](./pics/polemount-2.jpg)
+![Pole Mount 3](./pics/polemount-3.jpg)
+![Pole Mount 4](./pics/polemount-4.jpg)
 
 ## Power it up
 
@@ -380,7 +389,7 @@ Inside the enclosure, connect the battery to the RAK radio.  **Make sure you hav
 
 ![Battery Power 1](./pics/battery-power-1.jpg)
 
-The Solar panel USB cable should already be inside the enclosure from a previous step.  Connect it to the USB pigtail.
+The Solar panel USB cable should already be inside the enclosure from a previous step.  Connect it to the USB pigtail.  If the solar panel is charging, you should see a red LED light up next to the USB port on the RAK radio.
 
 You should now be able to connect to the repeater over the radio RF link from a companion node.  You may have to wait an hour for the first advert to happen before the repeater shows up in your contact list.
 
