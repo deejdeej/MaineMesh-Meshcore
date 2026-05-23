@@ -190,7 +190,7 @@ Connect the Bluetooth antenna to the RAK radio, and secure it with a zip tie to 
 
 Connect the GPS antenna to the RAK radio.
 
-Secure the battery power wires to the perfboard using a zip tie as shown.  **Do not connect the battery power connector to the RAK radio yet.**
+Secure the battery power wires to the perfboard using a zip tie as shown.  You can also slip the wires under the top zip tie on the battery to help hold it out of the way.  **Do not connect the battery power connector to the RAK radio yet.**
 
 ![Connections 2](./pics/connections-2.jpg)
 
