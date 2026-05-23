@@ -89,6 +89,13 @@ https://www.amazon.com/dp/B08H8J6ZV6
 
 # Build it
 
+TO DO:  Add pictures of cutting the RTV gasket and installing into the enclosure
+
+TO DO:  Add pole mounting pictures
+
+TO DO:  Add Coax Seal pictures
+
+
 ## Gather the parts
 
 Gather the parts that you need to put the repeater together.
