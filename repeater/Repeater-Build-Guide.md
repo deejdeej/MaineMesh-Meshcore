@@ -71,7 +71,6 @@ https://store.rokland.com/products/10-dbi-backcountry-n-male-omni-outdoor-helium
 
 
 12 inch coax cable if you are mounting the antenna very close above the enclosure - used in place of the 3 foot cable above:
-
 https://www.amazon.com/dp/B0B3XJ4ZKR?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 
 
