@@ -186,9 +186,11 @@ Plug the solar cable pigtail into the RAK radio.  **Make sure you have the conne
 
 Bundle up the solar cable pigtail and use zip ties to secure it to the top and left sides of the perfboard as shown.  Leave a couple of inches free on the USB end to make it easier to plug in the solar panel USB-C cable later.
 
-Connect the Bluetooth antenna to the RAK radio.
+Connect the Bluetooth antenna to the RAK radio, and secure it with a zip tie to the perfboard.
 
 Connect the GPS antenna to the RAK radio.
+
+Secure the battery power wires to the perfboard using a zip tie as shown.  **Do not connect the battery power connector to the RAK radio yet.**
 
 ![Connections 2](./pics/connections-2.jpg)
 
@@ -205,7 +207,7 @@ Insert the cable gland in the bottom hole.  You want it fairly tight, but be car
 
 Peel the backing from the sticky tape on the GPS antenna, and stick it to the underside of the top of the inside of the enclosure.
 
-Peel the backing from the sticky tape on the Bluetooth antenna, and stick it on the bottom of the inside of the enclosure.
+Peel the backing from the sticky tape on the Bluetooth antenna, and stick it on the right side of the inside of the enclosure.
 
 **Leave the battery disconnected for now.  You will damage the radio if you power it on without an antenna attached.**
 
@@ -216,13 +218,13 @@ Peel the backing from the sticky tape on the Bluetooth antenna, and stick it on 
 
 ## Antenna
 
-At this point you need an antenna connected before you can configure the radio.  
+At this point you need an antenna connected before you can power on and configure the radio.  
 
 If you have one of the small ALFA 915 antennas, you can screw it onto the antenna connector on the top of the enclosure.
 
-If you have the larger antennas, laying it out alongside the enclosure on a wooden or plastic table might make it easier due to the size.  There is a chance that a metal table might severely affect the SWR of the antenna if the antenna is paying on it, so you might want to avoid using a metal table.
+If you have one of the larger antennas, laying it out with the enclosure on a wooden or plastic table might make it easier due to the size.  There is a chance that a metal table might severely affect the SWR of the antenna if the antenna is laying on it, so you might want to avoid using a metal table.
 
-Connect the external antenna and external coax cable and double check it is connected properly.
+Connect the external antenna and external coax cable and double check it is connected tightly, and the connectors are not cross-threaded.
 
 
 ## Configuration
