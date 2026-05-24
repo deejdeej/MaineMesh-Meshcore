@@ -14,6 +14,8 @@ Bangor-RPT-1
 
 ## Hardware
 
+**Pre-built**
+
 If you are looking for a prebuilt node, we have found the [Seeed Solar P1 Pro](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-Pro-for-Meshtastic-LoRa-p-6412.html) to be a decent unit.
 
 We do recommend replacing the factory antenna with something better, such as the [Rokland 3 dBi N-Male Antenna](https://store.rokland.com/collections/all-helium-antennnas/products/3-dbi-rak-brand-fiberglass-outdoor-antenna-bracket-mount-for-rak-bobcat-sensecap) which can be mounted directly onto the Seeed P1 Pro, or the [Rokland 5.8 dBi N-Male Antenna](https://store.rokland.com/collections/all-helium-antennnas/products/5-8-dbi-n-male-omni-outdoor-915-mhz-antenna-large-profile-32-height-for-helium-rak-miner-2-nebra-indoor-bobcat) which needs to be mounted separately.
@@ -21,7 +23,9 @@ We do recommend replacing the factory antenna with something better, such as the
 Either of those antennas would also need an RP-SMA to N-female coaxial cable to connect to the Seeed P1 Pro, such as the [Eagles 2PCS RPSMA Male to N Female Connector 12inch Coaxial Assembly](https://www.amazon.com/dp/B06XJM2PK5).
 
 
-If you like to tinker and build things, we have also been experimenting with a DIY 1 watt repeater node based around the RAK Wireless WisMesh 1W Booster Starter Kit.  Please note this is still very much a Work In Progress, but you can find a [rough draft of the 1 watt build here](Repeater-Build-Guide.md).
+**DIY**
+
+If you like to tinker and build things, we have also been experimenting with a DIY 1 watt repeater based around the RAK Wireless WisMesh 1W Booster Starter Kit.  You can find the [build guide for the 1 watt repeater here](Repeater-Build-Guide.md).
 
 
 ## Configuration
