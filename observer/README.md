@@ -14,8 +14,6 @@ Examples:
 
 BGR-Observer-1
 
-NHZ-Observer-1
-
 
 ## Configuration
 
