@@ -7,9 +7,19 @@ We participate in three mesh monitors, [LetsMesh](https://letsmesh.net), [Meshma
 Within Meshmapper we've established a state wide region BGR (Bangor) to allow monitoring of all traffic within the state.  If you choose to setup a Meshcore observer, please set the region to BGR to help us out!
 
 
+## Naming Convention
+We are encouraging the naming convention of Region-Role-Number.
+
+Examples:
+
+BGR-Observer-1
+
+NHZ-Observer-1
+
+
 ## Configuration
 
-To setup an observer, follow the directions on the [Meshmapper Observer Setup](https://wiki.meshmapper.net/mqtt-main/) site using one of the observer methods described there.
+Follow the directions on the [Meshmapper Observer Setup](https://wiki.meshmapper.net/mqtt-main/) site using one of the observer methods described there.
 
 Set the IATA region to BGR
 ```
