@@ -63,6 +63,8 @@ Three 1 inch long 1/4 inch bolts, three nuts, and six washers.
 
 Optional:  I like these hose clamps better than the ones that come with the mounting kits:  https://www.amazon.com/dp/B08D9B1SWK?th=1
 
+Optional:  Add a vent to the enclosure: https://www.amazon.com/dp/B0F4NM8NT5?th=1
+
 
 **Options to consider:**
 
@@ -141,6 +143,12 @@ Test fit the cable gland and the antenna bulkhead mount in the holes, then remov
 ![Holes 4](./pics/holes-4.jpg)
 ![Holes 5](./pics/holes-5.jpg)
 ![Holes 6](./pics/holes-6.jpg)
+
+Optional:  Add a vent to the enclosure.
+
+![Vent 1](./pics/vent-1.jpg)
+![Vent 2](./pics/vent-2.jpg)
+![Vent 3](./pics/vent-3.jpg)
 
 
 ## Populate the perfboard
