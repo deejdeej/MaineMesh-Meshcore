@@ -144,7 +144,7 @@ Test fit the cable gland and the antenna bulkhead mount in the holes, then remov
 ![Holes 5](./pics/holes-5.jpg)
 ![Holes 6](./pics/holes-6.jpg)
 
-Optional:  Add a vent to the enclosure.
+Optional:  Add a vent to the bottom of the enclosure.  The rubber gasket is located on the outside of the enclosure, pressing up against the bottom when the vent is tightened.  The threaded nut is installed on the inside of the enclosure.
 
 ![Vent 1](./pics/vent-1.jpg)
 ![Vent 2](./pics/vent-2.jpg)
