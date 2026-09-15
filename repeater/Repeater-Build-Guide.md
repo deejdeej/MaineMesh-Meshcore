@@ -9,6 +9,10 @@
 
 When ordering from RAK Wireless, choose the DDP (Delivery Duty Paid) shipping option so you don't get a separate bill for tariffs + tariff collection fees.
 
+Note this build guide was written for the original RAK 1 watt radio which allowed you to switch between battery or external 5V power using a jumper.  The current RAK 1 watt radio now comes in two separate versions, one is battery powered, and the other is powered via external 5V, and you CANNOT switch between them.  Choose the battery powered version if you are building a solar powered setup, and the external powered version if you are going to use something like PoE.
+
+The battery powered version will match closest to the solar build in this guide.
+
 RAK 3401 1 watt radio 915 Mhz:
 https://store.rakwireless.com/products/meshtastic-1w-lora-booster-kit-rak3401?variant=45678368882886
 
