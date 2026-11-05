@@ -30,40 +30,40 @@ https://store.rokland.com/products/rak-wireless-l76k-rak12501-compact-gnss-modul
 
 **Amazon parts:**
 
-Enclosure, Grey, 5.9" x 5.9" x 3.5":
+Enclosure, Grey, 5.9" x 5.9" x 3.5" ($16):
 https://www.amazon.com/gp/product/B0C2HJGRFS/?th=1
 
-IPEX to N Female coax for Lora antenna, 8 inch (internal to enclosure):
+IPEX to N Female coax for Lora antenna, 8 inch (internal to enclosure) ($13):
 https://www.amazon.com/dp/B0CRCZ2JG3?th=1
 
-Eightwood N Female to N Male Jumper RG400 Low Loss Coax Cable 3 Feet (external to enclosure):
+Eightwood N Female to N Male Jumper RG400 Low Loss Coax Cable 3 Feet (external to enclosure) ($15):
 https://www.amazon.com/dp/B0B3XKJPR3?th=1
 
-USB Type-C Pigtail Cable Extension Power Cable, type C female:
+USB Type-C Pigtail Cable Extension Power Cable, type C female ($10):
 https://www.amazon.com/dp/B0BFHW7PXD?th=1
 
-10 Watt Solar Panel, black:
+10 Watt Solar Panel, black ($27):
 https://www.amazon.com/dp/B0DHZH79J4?th=1
 
-Mast mount for solar panel, Universal Wall Mounting Bracket:
+Mast mount for solar panel, Universal Wall Mounting Bracket ($19):
 https://www.amazon.com/dp/B0BVSXKMGM
 
-Mast mount for enclosure, 6.9" x 1.9" Pole Mounting Kit :
+Mast mount for enclosure, 6.9" x 1.9" Pole Mounting Kit ($14):
 https://www.amazon.com/dp/B0B4DW4HFM?th=1
 
-Coax Seal - for sealing antenna connections from moisture:
+Coax Seal - for sealing antenna connections from moisture ($10):
 https://www.amazon.com/Fittings-Universal-Waterproof-Non-Conducting-Wire/dp/B00UZWM1U0/
 
-Small 4 inch zip ties for securing the RAK radio to the internal enclosure perfboard:
+Small 4 inch zip ties for securing the RAK radio to the internal enclosure perfboard ($6):
 https://www.amazon.com/1000pcs-Zipties-Locking-Plastic-Management/dp/B0FSJQGKSG/?th=1
 
 
 **Rokland parts:**
 
-MakerFocus Flat 3.7V 8000 mAh Battery with JST Type PH 2.0 Plug:
+MakerFocus Flat 3.7V 8000 mAh Battery with JST Type PH 2.0 Plug ($20):
 https://store.rokland.com/products/makerfocus-flat-3-7v-3000mah-rechargeable-lithium-polymer-11-1wh-battery-with-jst-type-ph-2-0-plug?variant=43445176369235
 
-5.8 dBi Outdoor Fiberglass Antenna:
+5.8 dBi Outdoor Fiberglass Antenna ($45):
 https://store.rokland.com/products/rak-wireless-5-8-dbi-outdoor-black-fiberglass-helium-hotspot-antenna?variant=41928821473363
 
 
@@ -71,11 +71,11 @@ https://store.rokland.com/products/rak-wireless-5-8-dbi-outdoor-black-fiberglass
 
 Three 1 inch long 1/4 inch bolts, three nuts, and six washers.
 
-[Black RTV (gasket maker)](https://www.amazon.com/dp/B0002UEN1U?th=1)
+[Black RTV (gasket maker) ($8)](https://www.amazon.com/dp/B0002UEN1U?th=1)
 
-Optional:  I like these hose clamps better than the ones that come with the mounting kits:  https://www.amazon.com/dp/B08D9B1SWK?th=1
+Optional:  I like these hose clamps better than the ones that come with the mounting kits ($12):  https://www.amazon.com/dp/B08D9B1SWK?th=1
 
-Optional:  Add a vent to the enclosure: https://www.amazon.com/dp/B0F4NM8NT5?th=1
+Optional:  Add a vent to the enclosure ($7): https://www.amazon.com/dp/B0F4NM8NT5?th=1
 
 
 **Options to consider:**
